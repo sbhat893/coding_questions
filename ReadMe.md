@@ -12,3 +12,5 @@ This repository contains efficient solutions for common coding questions in C++ 
 6. Rotate Array
 7. Best Time to Buy and Sell Stocks
 8. Best Time to Buy and Sell Stocks II
+9. Valid Palindrome
+10. Is Subsequence
