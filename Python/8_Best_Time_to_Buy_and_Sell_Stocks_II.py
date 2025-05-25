@@ -6,7 +6,7 @@ On each day, you may decide to buy and/or sell the stock. You can only hold at m
 Find and return the maximum profit you can achieve.
 '''
 
-def maxProfit(self, prices):
+def maxProfit(prices):
     if len(prices) < 2:
         return 0
     cumilative_profit = 0
