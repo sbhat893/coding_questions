@@ -14,3 +14,5 @@ This repository contains efficient solutions for common coding questions in C++ 
 8. Best Time to Buy and Sell Stocks II
 9. Valid Palindrome
 10. Is Subsequence
+11. Valid Parantheses
+12. Ransom Note 
