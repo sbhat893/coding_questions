@@ -19,3 +19,4 @@ This repository contains efficient solutions for common coding questions in C++ 
 13. Isomorphic Strings
 14. Word Pattern
 15. Two Sum
+16. Linked List Cycle
