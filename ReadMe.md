@@ -21,3 +21,7 @@ This repository contains efficient solutions for common coding questions in C++ 
 15. Two Sum
 16. Linked List Cycle
 17. Merge Two Sorted Lists
+18. Length of Last Word
+19. Roman to Integer
+20. Longest Common Prefix
+21. Find Needle in a Haystack
