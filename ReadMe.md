@@ -27,3 +27,4 @@ This repository contains efficient solutions for common coding questions in C++ 
 21. Find Needle in a Haystack
 22. Two Sum - Sorted Array
 23. Happy Number
+24. Summary Ranges
