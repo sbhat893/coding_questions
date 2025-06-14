@@ -28,3 +28,4 @@ This repository contains efficient solutions for common coding questions in C++ 
 22. Two Sum - Sorted Array
 23. Happy Number
 24. Summary Ranges
+25. Add Binary
