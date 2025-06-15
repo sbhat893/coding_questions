@@ -29,3 +29,7 @@ This repository contains efficient solutions for common coding questions in C++ 
 23. Happy Number
 24. Summary Ranges
 25. Add Binary
+26. Reverse bits
+27. Number of set bits
+28. Single Number
+29. Palindrome Number
