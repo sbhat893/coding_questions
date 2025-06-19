@@ -34,3 +34,4 @@ This repository contains efficient solutions for common coding questions in C++ 
 28. Single Number
 29. Palindrome Number
 30. Simplify File Path
+31. Depth of Binary Tree
